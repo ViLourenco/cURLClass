@@ -1,6 +1,6 @@
 <?php
 /**
- * Just a little class to help with cURL and an custom implementation by Lumen Framework
+ * Just a little class to help with cURL and a custom implementation by Lumen Framework
  *
  * PHP version 5
  *
